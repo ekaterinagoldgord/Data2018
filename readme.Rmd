@@ -1,0 +1,12 @@
+---
+title: "27 jan"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## тяжело вставать к первой паре 
+
+fghjgjh ghhjkhkjhkj
